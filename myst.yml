@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: c446c479-6421-478e-95a5-7ed243d038f3
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/meletao/zig
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
